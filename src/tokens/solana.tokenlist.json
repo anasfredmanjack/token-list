@@ -76333,6 +76333,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3hcJREDT5abRz18kin7Mz9AJAj569xKUhZJpkVNKvTBT",
+      "symbol": "LYKITA",
+      "name": "Likyta",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/anasfredmanjack/likytacoinrepo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
